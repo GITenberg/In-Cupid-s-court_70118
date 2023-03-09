@@ -1,0 +1,31 @@
+_repo: In-Cupid-s-court_70118
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Warren, Ina Russelle
+    gutenberg_agent_id: '55607'
+    url: http://www.gutenberg.org/2009/agents/55607
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70118'
+  lccn: 00006728
+language: en
+pgterms:marc904: https://archive.org/details/incupidscourt00warrrich/page/n9/mode/2up
+pgterms:marc905: 20220206124749warren
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bR. H. Russell, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love poetry'
+- !lcsh 'Cupid in literature'
+- !lcc 'PR'
+- GITenberg
+title: In Cupid's court
+url: http://www.gutenberg.org/ebooks/70118
