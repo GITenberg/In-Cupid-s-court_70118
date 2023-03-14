@@ -1,11 +1,16 @@
 _repo: In-Cupid-s-court_70118
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70118-h/images/cover.jpg
 creator:
   editor:
     agent_name: Warren, Ina Russelle
     gutenberg_agent_id: '55607'
     url: http://www.gutenberg.org/2009/agents/55607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70118#In-Cupid-s-court
 gutenberg_issued: '2023-02-23'
 identifiers:
   gutenberg: '70118'
